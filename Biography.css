@@ -1,0 +1,44 @@
+.main{
+	width: 300px;
+	height: 200px;
+	background-color: orange;
+}
+.nama{
+	color: blue;
+}
+.sumber{
+	font-size: 10px;
+}
+.sumber2{
+	font-size: 10px;
+}
+.sumber3{
+	font-size: 10px;
+}
+.sumber4{
+	font-size: 10px;
+}
+.main{
+	width: 350px;
+	height: 720px;
+	background-color: orange;
+	border-radius: 10px;
+}
+.identitas{
+	color: yellow;
+}
+.identitas2{
+	color: blue;
+	font-size: 13px;
+}
+.identitas3{
+	color: purple;
+	font-size: 13px;
+}
+.identitas4{
+	color: rebeccapurple;
+	font-size: 13px;
+}
+.whatsapp{
+	color: blue;
+}
